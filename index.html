@@ -1,69 +1,99 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Coffee World</title>
+    <title>高鳳國際物流股份有限公司</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f3f1ea;
-            color: #4b3832;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
         }
         header {
-            background-color: #6f4e37;
+            background-color: #0056a3;
             color: white;
-            padding: 20px;
+            padding: 1rem 0;
             text-align: center;
         }
-        main {
-            padding: 20px;
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #0078d4;
+            padding: 0.5rem 0;
             text-align: center;
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 10px;
-        }
-        .cta-button {
-            background-color: #d4a373;
+        nav a {
             color: white;
-            border: none;
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            margin-top: 20px;
-            border-radius: 5px;
+            margin: 0 1rem;
+            text-decoration: none;
+            font-weight: bold;
         }
-        .cta-button:hover {
-            background-color: #c49567;
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .intro {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .intro h2 {
+            color: #0056a3;
         }
         footer {
-            background-color: #4b3832;
+            background-color: #0056a3;
             color: white;
             text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to Coffee World</h1>
-        <p>Your daily dose of coffee inspiration</p>
+        <h1>高鳳國際物流股份有限公司</h1>
     </header>
-    <main>
-        <img src="https://via.placeholder.com/800x400" alt="Coffee Image">
-        <h2>About Coffee</h2>
-        <p>Coffee is more than a drink—it's an experience. From the rich aroma to the bold flavors, every cup tells a story. Explore the world of coffee with us!</p>
-        <button class="cta-button">Learn More</button>
-    </main>
+    <nav>
+        <a href="#about">關於我們</a>
+        <a href="#services">服務項目</a>
+        <a href="#contact">聯絡我們</a>
+    </nav>
+    <div class="container">
+        <section id="about" class="intro">
+            <h2>關於我們</h2>
+            <p>高鳳國際物流股份有限公司致力於提供專業的貨櫃運輸解決方案，為客戶打造高效、安全的物流服務。</p>
+        </section>
+        <section id="services">
+            <h2>服務項目</h2>
+            <ul>
+                <li>貨櫃運輸</li>
+                <li>倉儲管理</li>
+                <li>報關服務</li>
+                <li>國際物流規劃</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>聯絡我們</h2>
+            <p>地址：高雄市前鎮區草衙二路3號</p>
+            <p>電話：07-8215161</p>
+            <p>傳真：07-8212231</p>
+            <p>電子郵件：<a href="mailto:kevinhuang@twkil.com.tw">kevinhuang@twkil.com.tw</a></p>
+        </section>
+    </div>
     <footer>
-        <p>&copy; 2024 Coffee World. All rights reserved.</p>
+        <p>&copy; 2024 高鳳國際物流股份有限公司. 保留所有權利。</p>
+        
     </footer>
 </body>
-</html>dl
+</html>
