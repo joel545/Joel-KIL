@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>基督教瑞豐教會</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="/app_kaoshc/views/web/img/core-img/favicon.ico">
+
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="/app_kaoshc/views/web/styles/style.css?1733809824">
+
+</head>
+
+<body>
+    <!-- ##### Preloader ##### -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <!-- Line -->
+        <div class="line-preloader"></div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+        <!-- ***** Navbar Area ***** -->
+        <div class="crose-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="croseNav">
+
+                        <!-- Nav brand -->
+                        <a href="/html" class="nav-brand"><img src="/app_kaoshc/views/web/img/core-img/logo.svg" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- close btn -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="/html/AnnualThemeList" title="年度主題">年度主題</a></li>
+                                    <li><a href="/html/about" title="關於我們">關於我們</a></li>
+                                    <li><a href="https://www.youtube.com/channel/UCe6dyZ24kDzdAbg67IgMB7Q" target="_blank" title="影音專區(另開視窗)">影音專區</a></li>
+                                    <li><a href="/html/GroupGatheringList" title="小組聚會">小組聚會</a></li>
+                                    <li><a href="/html/HappinessGroupList" title="幸福小組">幸福小組</a></li>
+                                    <li><a href="/html/WeeklyList" title="週報">週報</a></li>
+                                    <li><a href="/html/DownloadList" title="檔案下載">檔案下載</a></li>
+                                    <li><a href="/html/CalendarList" title="行事曆">行事曆</a></li>
+                                    <li><a href="/html/OnlineGiving" title="線上奉獻">線上奉獻</a></li>
+                                </ul>
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+            <!-- ***** Search Form Area ***** -->
+            <div class="search-form-area">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-12">
+                            <div class="searchForm">
+                                <form action="#" method="post">
+                                    <input type="search" name="search" id="search" placeholder="Enter keywords &amp; hit enter...">
+                                    <button type="submit" class="d-none"></button>
+                                </form>
+                                <div class="close-icon" id="searchCloseIcon"><i class="fa fa-close" aria-hidden="true"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Navbar Area ***** -->
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+
+
+<!-- ##### Hero Area Start ##### -->
+<section class="hero-area hero-post-slides owl-carousel">
+    <!-- Single Hero Slide -->
+    <div class="single-hero-slide bg-img" style="background-image: url(/app_kaoshc/views/web/img_Banner/1724498992.jpg);"></div>
+    <div class="single-hero-slide bg-img" style="background-image: url(/app_kaoshc/views/web/img_Banner/1726643246.jpg);"></div>
+    <div class="single-hero-slide bg-img" style="background-image: url(/app_kaoshc/views/web/img_Banner/1720165037.jpg);"></div>
+</section>
+<!-- ##### Hero Area End ##### -->
+
+<!-- ##### 最新消息 ##### -->
+<section class="blog-area section-padding-100-0">
+    <div class="container">
+        <div class="row">
+            <!-- Section Heading -->
+            <div class="col-12">
+                <div class="section-heading">
+                    <h2>最新消息</h2>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <!-- Single Blog Post Area -->
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="single-blog-post mb-100">
+                    <div class="post-thumbnail">
+                        <a href="/html/NewsDetail?mew_guid=17305282233453"><img src="/app_kaoshc/views/web/img_News/1732695891.jpg" alt="主日崇拜時間改9：30～11：00"></a>
+                    </div>
+                    <div class="post-content">
+                        <div class="post-meta d-flex">
+                            <a href="/html/NewsDetail?mew_guid=17305282233453"><i class="fa fa-calendar" aria-hidden="true"></i> 2024-11-02</a>
+                        </div>
+                        <a href="/html/NewsDetail?mew_guid=17305282233453" class="post-title" title="主日崇拜時間改9：30～11：00">
+                            <h4>主日崇拜時間改9：30～11：00</h4>
+                        </a>                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="single-blog-post mb-100">
+                    <div class="post-thumbnail">
+                        <a href="/html/NewsDetail?mew_guid=17262932362202"><img src="/app_kaoshc/views/web/img_News/1726293392.jpg" alt="第十二期幸福小組開跑了"></a>
+                    </div>
+                    <div class="post-content">
+                        <div class="post-meta d-flex">
+                            <a href="/html/NewsDetail?mew_guid=17262932362202"><i class="fa fa-calendar" aria-hidden="true"></i> 2024-09-14</a>
+                        </div>
+                        <a href="/html/NewsDetail?mew_guid=17262932362202" class="post-title" title="第十二期幸福小組開跑了">
+                            <h4>第十二期幸福小組開跑了</h4>
+                        </a>                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="single-blog-post mb-100">
+                    <div class="post-thumbnail">
+                        <a href="/html/NewsDetail?mew_guid=17210074952899"><img src="/app_kaoshc/views/web/img_News/1721007493.png" alt="建堂勇士募集"></a>
+                    </div>
+                    <div class="post-content">
+                        <div class="post-meta d-flex">
+                            <a href="/html/NewsDetail?mew_guid=17210074952899"><i class="fa fa-calendar" aria-hidden="true"></i> 2024-07-15</a>
+                        </div>
+                        <a href="/html/NewsDetail?mew_guid=17210074952899" class="post-title" title="建堂勇士募集">
+                            <h4>建堂勇士募集</h4>
+                        </a>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ##### 最新消息 ##### -->
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <!-- Main Footer Area -->
+        <div class="main-footer-area">
+            <div class="container">
+                <div class="row">
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="single-footer-widget mb-15">
+                            <a href="#" class="footer-logo"><img src="/app_kaoshc/views/web/img/core-img/logo.svg" alt=""></a>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="single-footer-widget mb-70">
+                            <h5 class="widget-title">基督教瑞豐教會（博愛堂）</h5>
+                            <div class="contact-information">
+                                <p><i class="fa fa-map-marker" aria-hidden="true"></i> 813 高雄市左營區博愛二路366號10樓</p>
+                                <a href="callto:07-5522545"><i class="fa fa-phone" aria-hidden="true"></i> 07-5522545</a>
+                                <a href="callto:07-5521321"><i class="fa fa-fax" aria-hidden="true"></i> 07-5521321</a>
+                                <a href="mailto:shchurch.org@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> shchurch.org@gmail.com</a>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.688015259934!2d120.30106677475976!3d22.66541792956302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e050418f5ee91%3A0xdf9af78d8a39863!2zODEz6auY6ZuE5biC5bem54ef5Y2A5Y2a5oSb5LqM6LevMzY26Jmf!5e0!3m2!1szh-TW!2stw!4v1720070664317!5m2!1szh-TW!2stw" width="250" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="single-footer-widget mb-70">
+                            <h5 class="widget-title">基督教瑞豐教會（瑞豐堂）</h5>
+                            <div class="contact-information">
+                                <p><i class="fa fa-map-marker" aria-hidden="true"></i> 804 高雄市鼓山區裕豐街90號</p>
+                                <a href="callto:07-5522545"><i class="fa fa-phone" aria-hidden="true"></i> 07-5522545</a>
+                                <a href="callto:07-5521321"><i class="fa fa-fax" aria-hidden="true"></i> 07-5521321</a>
+                                <a href="mailto:shchurch.org@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> shchurch.org@gmail.com</a>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.648106543849!2d120.29121207475983!3d22.666905129508283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e05a96d8dc785%3A0xd60f309648ebc670!2zODA06auY6ZuE5biC6byT5bGx5Y2A6KOV6LGQ6KGXOTDomZ8!5e0!3m2!1szh-TW!2stw!4v1720070723160!5m2!1szh-TW!2stw" width="250" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Copwrite Area -->
+        <div class="copywrite-area">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center flex-wrap">
+                    <!-- Copywrite Text -->
+                    <div class="col-12 col-md-6">
+                        <div class="copywrite-text">
+                            <p>Copyright &copy;2024 基督教瑞豐教會</p>
+                        </div>
+                    </div>
+
+                    <!-- Footer Social Icon -->
+                    <div class="col-12 col-md-6">
+                        <div class="footer-social-icon">
+                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="/app_kaoshc/views/web/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="/app_kaoshc/views/web/js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="/app_kaoshc/views/web/js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="/app_kaoshc/views/web/js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="/app_kaoshc/views/web/js/active.js"></script>
+</body>
+</html>
