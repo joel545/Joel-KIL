@@ -33,8 +33,6 @@ jobs:
         run: 
              git config --local user.name "python"
              
-             git config --local user.email "joelliu848@gmail.com"
- 
       - name: Configure git to ues GITHUB_PAT
         run: |
           git remote set-url origin https://${{secrets.MY_PAT}}@github.com/joel545/mypy.git
