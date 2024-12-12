@@ -24,9 +24,9 @@ jobs:
           #pip install -r requirements.txt
           pip install -r requirements.txt
 
-      - name: Run downloadimages.py
+      - name: Run download_images2.py
         run: 
-              python downloadimages.py
+              python download_images2.py
 
              
       - name: Configure git
