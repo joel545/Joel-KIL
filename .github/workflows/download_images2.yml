@@ -30,7 +30,6 @@ jobs:
 
              
       - name: Configure git
-
         run: 
              git config --local user.name 'python'
              git config --local user.email 'joelliu848@gmail.com'
