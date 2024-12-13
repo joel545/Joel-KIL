@@ -1,7 +1,7 @@
 import openai
 import openai.error
 
-#設定API KEY
+#設定 API KEY
 openai.api_key='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'
 
 
