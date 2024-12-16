@@ -2,7 +2,9 @@ import openai
 import openai.error
 
 #設定API KEY
-openai.api_key='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'
+# openai.api_key='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'
+openai.api_key='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'
+
 
 
 #使用try...except 處理API的錯誤
